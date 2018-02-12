@@ -1,0 +1,13 @@
+$alcaravanes-verde: #0C6135;
+$alcaravanes-amarillo: #D2D024;
+
+@import "node_modules/materialize-css/sass/materialize.scss";
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+body .brand-logo {
+    font-family: 'Merriweather';
+}
+
+.nav-wrapper {
+    background-color: $alcaravanes-verde;
+}
